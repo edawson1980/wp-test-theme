@@ -41,3 +41,13 @@ h2{text-align:center;}
 .card p{
   text-align:center;
 }
+footer{
+  display:flex;
+  background-color:#9B84E9;
+  padding:20px 50px;
+}
+#footer-left,#footer-right{
+  display:flex;
+  justify-content: flex-start;
+}
+i{margin-left:10px;}
