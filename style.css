@@ -1,0 +1,13 @@
+body{width:100%;overflow-x:hidden;}
+h1{font-family:'Oswald';}
+nav, p{font-family:'Livvic';}
+.menu-container{
+  display:flex;
+  justify-content: center;
+}
+.menu{
+  display:flex;
+  justify-content: space-around;
+  list-style:none;
+}
+a{margin-right:20px;}
